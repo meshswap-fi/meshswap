@@ -6,6 +6,7 @@ No private sale, No presale, Community-driven $MESH offers crypto yield.
 # Audit Report
 
 * [Theori AUDIT](./audit/[Theori]_meshswap_audit_rev1.0.pdf)
+* [MoveLabs AUDIT](./audit/[MoveLabs]_Security_Analysis_Report_Final.pdf)
 
 # Polygon Address
 
